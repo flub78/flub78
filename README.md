@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flub78
-- 👀 I’m interested in PHP, Android and Python developments.
-- 🌱 I’m currently learning Android and looking at modern PHP tools like Laravel 8.
+- 👀 I’m interested in PHP, Android, React and Python developments.
+- 🌱 I’m currently learning Android and looking at modern PHP tools like Laravel.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
